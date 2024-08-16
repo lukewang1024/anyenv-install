@@ -1,1 +1,5 @@
 install_env https://github.com/pyenv/pyenv.git
+install_plugin pyenv-doctor https://github.com/pyenv/pyenv-doctor.git
+install_plugin pyenv-update https://github.com/pyenv/pyenv-update.git
+install_plugin pyenv-virtualenv https://github.com/pyenv/pyenv-virtualenv.git
+install_plugin pyenv-which-ext https://github.com/pyenv/pyenv-which-ext.git
